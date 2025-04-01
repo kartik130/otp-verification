@@ -1,5 +1,4 @@
-# otp-verification
-OTP Verification via Email using Python
+# OTP Verification via Email using Python
 
 This Python script allows you to send a one-time password (OTP) to a specified email address for verification using the SMTP protocol. It utilizes smtplib for sending emails and random for OTP generation.
 
