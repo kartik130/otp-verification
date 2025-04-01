@@ -43,9 +43,6 @@ This Python script allows you to send a one-time password (OTP) to a specified e
 - Consider using environment variables to store sensitive information.
 - Use **OAuth2 authentication** for better security instead of Less Secure Apps.
 
-## License
-This project is licensed under the MIT License.
-
 ## Disclaimer
 This script is for educational purposes only. Sending automated emails must comply with **email service provider policies**.
 
